@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm **João Vitor Lima Magalhães**, transitioning
 - 🛄 I’m currently working as a Freelancer in AI at **Outlier**, focusing on **response validation** and **prompt creation** related to **code development** for generative AI models.
 - ✍️ I’m also collaborating on a **transcription project** with **Sigma.ai**.
 - 🌱 I’m currently learning **software development** as part of the **1000DEVs Program**.
-- 🔤 I occasionally work on **translation and transcription** projects (EN ↔ PT-BR) using Smartcat.
+- 🔤 I occasionally work on **translation and transcription** projects (EN ↔ PT-BR) using **Smartcat**.
 - 💬 Ask me about anything tech or AI-related, or even about my journey from agronomy to programming!
 - ⚡ Fun fact: I love exploring new restaurants and cafés with my girlfriend, and I enjoy playing strategy games online!
 
