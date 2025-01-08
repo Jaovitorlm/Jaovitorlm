@@ -1,0 +1,18 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v2
+        with:
+          # GitHub user name
+          github_user_name: Jaovitorlm
+          # Theme colors
+          color_snake: '#0000FF' # Azul Cruzeiro
+          color_dot: '#FFFFFF'  # Branco
