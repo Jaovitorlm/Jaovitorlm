@@ -19,8 +19,6 @@ Welcome to my GitHub profile! I'm **João Vitor Lima Magalhães**, transitioning
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 <a href="https://www.smartcat.com/"><img src="https://img.shields.io/badge/Smartcat-4CAF50?style=for-the-badge&logo=smartcat&logoColor=white"></a>
 
-
-
 ---
 
 ### 📬 Let's Connect!
@@ -33,6 +31,6 @@ Welcome to my GitHub profile! I'm **João Vitor Lima Magalhães**, transitioning
 ---
 
 <div align="center">
-  <h1>🦊 <a href="https://www.youtube.com/@cruzeiro" target="_blank"><img src="https://img.shields.io/badge/Cruzeiro-Maior%20de%20Minas-0000FF?style=for-the-badge&logo=football&logoColor=white" alt="Cruzeiro Badge"></a> 🦊</h1>
+  <h3>🦊 <a href="https://www.youtube.com/@cruzeiro" target="_blank"><img src="https://img.shields.io/badge/Cruzeiro-Maior%20de%20Minas-0000FF?style=for-the-badge&logo=football&logoColor=white" alt="Cruzeiro Badge"></a> 🦊</h1>
   <p><em>"O Cruzeiro não é apenas um time, é um sentimento, uma história, uma tradição."</em></p>
 </div>
