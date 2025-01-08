@@ -35,6 +35,14 @@ Welcome to my GitHub profile! I'm **João Vitor Lima Magalhães**, transitioning
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaovitorlm/Jaovitorlm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaovitorlm/Jaovitorlm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jaovitorlm/Jaovitorlm/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 <div align="center">
   <h3>🦊 <a href="https://www.youtube.com/@cruzeiro" target="_blank"><img src="https://img.shields.io/badge/Cruzeiro-Maior%20de%20Minas-0000FF?style=for-the-badge&logo=football&logoColor=white" alt="Cruzeiro Badge"></a> 🦊</h1>
   <p><em>"O Cruzeiro não é apenas um time, é um sentimento, uma história, uma tradição."</em></p>
