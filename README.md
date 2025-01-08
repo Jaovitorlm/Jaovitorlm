@@ -12,26 +12,14 @@ Welcome to my GitHub profile! I'm **João Vitor Lima Magalhães**, transitioning
 ---
 
 ### 🛠️ Languages & Tools
-<div>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  </a>
-  <a href="https://www.smartcat.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Smartcat-4CAF50?style=for-the-badge&logo=smartcat&logoColor=white" alt="Smartcat"/>
-  </a>
-</div>
+<a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+<a href="https://www.smartcat.com/"><img src="https://img.shields.io/badge/Smartcat-4CAF50?style=for-the-badge&logo=smartcat&logoColor=white"></a>
+
+
 
 ---
 
@@ -45,6 +33,6 @@ Welcome to my GitHub profile! I'm **João Vitor Lima Magalhães**, transitioning
 ---
 
 <div align="center">
-  <h3>🦊 <a href="https://www.youtube.com/@cruzeiro" target="_blank"><img src="https://img.shields.io/badge/Cruzeiro-Maior%20de%20Minas-0000FF?style=for-the-badge&logo=football&logoColor=white" alt="Cruzeiro Badge"></a> 🦊</h3>
+  <h1>🦊 <a href="https://www.youtube.com/@cruzeiro" target="_blank"><img src="https://img.shields.io/badge/Cruzeiro-Maior%20de%20Minas-0000FF?style=for-the-badge&logo=football&logoColor=white" alt="Cruzeiro Badge"></a> 🦊</h1>
   <p><em>"O Cruzeiro não é apenas um time, é um sentimento, uma história, uma tradição."</em></p>
 </div>
