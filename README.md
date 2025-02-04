@@ -1,3 +1,21 @@
+## Olá, Mundo! 🌍  
+
+Bem-vindo ao meu perfil no GitHub! Sou **João Vitor Lima Magalhães**, fazendo a transição da agronomia para o mundo da tecnologia. Aqui está um pouco sobre mim:  
+
+- 🤖 Atualmente, trabalho como **Freelancer em IA** na **Outlier**, focado na **validação de respostas** e **criação de prompts** relacionados ao **desenvolvimento de código** para modelos de IA generativa.  
+
+- ✍️ Também colaboro em um **projeto de transcrição** com a **Sigma.ai**.  
+
+- 📘 Estou aprendendo **desenvolvimento de software** como parte do **Programa 1000DEVs** e sou aluno do **Oracle One**.  
+
+- 💬 Pergunte-me sobre qualquer coisa relacionada a **tecnologia** ou **IA**, ou até mesmo sobre minha jornada da **agronomia para a programação**!  
+
+- 🌐 Ocasionalmente, trabalho com **tradução e transcrição** (EN ↔ PT-BR) usando **Smartcat**.  
+
+- ⚡ Fato curioso: Adoro explorar **novos restaurantes e cafés** com minha namorada e gosto de jogar **games de estratégia online**!  
+
+---
+
 ## Hello, World! 🌍
 
 Welcome to my GitHub profile! I'm **João Vitor Lima Magalhães**, transitioning from agronomy to the tech world. Here's a bit about me:
@@ -6,7 +24,7 @@ Welcome to my GitHub profile! I'm **João Vitor Lima Magalhães**, transitioning
   
 - ✍️ I’m also collaborating on a **transcription project** with **Sigma.ai**.
   
-- 📘 I’m currently learning **software development** as part of the **1000DEVs Program**.
+- 📘 I’m currently learning **software development** as part of the **1000DEVs Program** and I'm a **Oracle One** student.
   
 - 💬 Ask me about anything tech or AI-related, or even about my journey from agronomy to programming!
   
